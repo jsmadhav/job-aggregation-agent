@@ -21,4 +21,4 @@ The proof-of-concept agent extracts structured job postings from multiple career
 ## Getting Started
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/job_aggregator_poc.ipynb
+jupyter notebook notebooks/Main.ipynb
