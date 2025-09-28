@@ -1,0 +1,8 @@
+langchain
+openai
+playwright
+beautifulsoup4
+selectolax
+pydantic
+httpx
+lxml
