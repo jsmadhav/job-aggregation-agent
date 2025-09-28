@@ -1,4 +1,4 @@
-# Agentic Job Aggregation Framework (PoC)
+# Agentic Job Aggregation Framework
 
 ## Overview
 This project explores agentic frameworks for job aggregation using **LangGraph** for workflow orchestration and **Selenium** for dynamic web scraping.  
